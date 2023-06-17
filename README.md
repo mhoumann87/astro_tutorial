@@ -1,3 +1,7 @@
+# Astro Tutorial
+
+Just me learning [Astro build framework](https://astro.build/), with their `Build a Blog` tutorial.
+
 # Astro Starter Kit: Minimal
 
 ```
